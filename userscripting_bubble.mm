@@ -1,6 +1,6 @@
 <map version="freeplane 1.2.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="Userscript" ID="ID_1723255651" CREATED="1283093380553" MODIFIED="1383929241007">
+<node TEXT="Userscript Bazaar" ID="ID_1723255651" CREATED="1283093380553" MODIFIED="1383933085324">
 <hook NAME="AutomaticEdgeColor" COUNTER="4"/>
 <hook NAME="MapStyle" background="#f9f9f9" zoom="0.75">
     <properties SHOW_NOTE_ICONS="true" SHOW_ICON_FOR_ATTRIBUTES="true" show_note_icons="true"/>
@@ -295,7 +295,7 @@
 <node TEXT="+25 000 (2013-10-31)" ID="ID_304245428" CREATED="1383405630021" MODIFIED="1383489434833" STYLE="bubble"/>
 </node>
 <node TEXT="Latest version" ID="ID_1736799870" CREATED="1383930105488" MODIFIED="1383930377889" LINK="https://addons.mozilla.org/en-US/firefox/addon/greasefire/versions/">
-<node ID="ID_1215901402" CREATED="1383930112312" MODIFIED="1383930237797"><richcontent TYPE="NODE">
+<node ID="ID_1215901402" CREATED="1383930112312" MODIFIED="1383933716671"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -309,9 +309,26 @@
 </html>
 
 </richcontent>
+<richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      - Broken version, <a href="https://github.com/skrul/greasefire/issues/70">updates stopped working</a>,&#160;<a href="http://userscripts.org/topics/115646?page=1#posts-477889">more infos here too</a>
+    </p>
+    <p>
+      - <a href="http://sourceforge.net/projects/greasemonkey/files/">unofficial fixed version availlable here</a>
+    </p>
+  </body>
+</html>
+
+</richcontent>
 </node>
 </node>
-<node TEXT="Work with" ID="ID_264310639" CREATED="1383480858033" MODIFIED="1383488216725">
+<node TEXT="Compatible with" ID="ID_264310639" CREATED="1383480858033" MODIFIED="1383931886510">
 <node TEXT="GreaseMonkey" ID="ID_144320420" CREATED="1383480874321" MODIFIED="1383488216726"/>
 <node TEXT="Scriptish" ID="ID_1064292105" CREATED="1383402360060" MODIFIED="1383488216726"/>
 </node>
