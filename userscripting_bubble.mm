@@ -1,9 +1,9 @@
 <map version="freeplane 1.2.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="Userscript" ID="ID_1723255651" CREATED="1283093380553" MODIFIED="1383794411654">
+<node TEXT="Userscript" ID="ID_1723255651" CREATED="1283093380553" MODIFIED="1383929241007">
 <hook NAME="AutomaticEdgeColor" COUNTER="4"/>
 <hook NAME="MapStyle" background="#f9f9f9" zoom="0.75">
-    <properties SHOW_NOTE_ICONS="true" SHOW_ICON_FOR_ATTRIBUTES="true"/>
+    <properties SHOW_NOTE_ICONS="true" SHOW_ICON_FOR_ATTRIBUTES="true" show_note_icons="true"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node">
@@ -97,7 +97,7 @@
 <node TEXT="Add-ons" ID="ID_1131778919" CREATED="1383400886374" MODIFIED="1383805974816" HGAP="33" VSHIFT="2">
 <node TEXT="GreaseMonkey" ID="ID_212027269" CREATED="1383400897540" MODIFIED="1383488216645" LINK="https://github.com/greasemonkey/greasemonkey/">
 <node TEXT="Firefox" ID="ID_1060437217" CREATED="1383402218397" MODIFIED="1383488216646" LINK="https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/">
-<node TEXT="Daily users" ID="ID_695679264" CREATED="1383403046665" MODIFIED="1383488216649" LINK="https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/statistics/usage/">
+<node TEXT="Users" ID="ID_695679264" CREATED="1383403046665" MODIFIED="1383929758094" LINK="https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/statistics/usage/">
 <node TEXT="+2 000 000 (2013-10-31)" ID="ID_598790934" CREATED="1383403505100" MODIFIED="1383489109015" STYLE="bubble"/>
 </node>
 <node TEXT="Latest version" ID="ID_1576331191" CREATED="1383849090182" MODIFIED="1383868810961" LINK="https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/versions/">
@@ -120,7 +120,7 @@
 </node>
 <node TEXT="Scriptish" ID="ID_884571867" CREATED="1383400907716" MODIFIED="1383488216660" LINK="https://github.com/scriptish/scriptish/">
 <node TEXT="Firefox &amp; SeaMonkey" ID="ID_1728499772" CREATED="1383402249605" MODIFIED="1383870753426" LINK="https://addons.mozilla.org/en-US/firefox/addon/scriptish/">
-<node TEXT="Daily users" ID="ID_1744335966" CREATED="1383403046665" MODIFIED="1383488216662" LINK="https://addons.mozilla.org/en-US/firefox/addon/scriptish/statistics/usage/">
+<node TEXT="Users" ID="ID_1744335966" CREATED="1383403046665" MODIFIED="1383929767421" LINK="https://addons.mozilla.org/en-US/firefox/addon/scriptish/statistics/usage/">
 <node TEXT="+90 000 (2013-10-31)" ID="ID_538704176" CREATED="1383403505100" MODIFIED="1383489230585" STYLE="bubble"/>
 </node>
 <node TEXT="Latest version" ID="ID_589590789" CREATED="1383849090182" MODIFIED="1383868782475" LINK="https://addons.mozilla.org/en-US/firefox/addon/scriptish/versions/">
@@ -209,7 +209,21 @@
 <node TEXT="NinjaKit" ID="ID_973291703" CREATED="1383456625479" MODIFIED="1383488216702" LINK="https://github.com/os0x/NinjaKit">
 <node TEXT="Safari &gt;= 5" ID="ID_1827411912" CREATED="1383456659935" MODIFIED="1383867716218" LINK="http://ss-o.net/safari/extension/NinjaKit.safariextz">
 <node TEXT="Latest version" ID="ID_62252362" CREATED="1383868417197" MODIFIED="1383868425206">
-<node TEXT="0.9.1 (2012-03-10)" ID="ID_209816655" CREATED="1383868428940" MODIFIED="1383873217770"/>
+<node ID="ID_209816655" CREATED="1383868428940" MODIFIED="1383929519426"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      0.9.1 (<b><font color="#ff6600">2012-03-10</font></b>)
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
 </node>
 </node>
 <node TEXT="Chrome" ID="ID_136909295" CREATED="1383456655807" MODIFIED="1383488216704" LINK="https://chrome.google.com/webstore/detail/ninjakit/gpbepnljaakggeobkclonlkhbdgccfek">
@@ -225,16 +239,26 @@
 <node TEXT="os0x" ID="ID_1215389217" CREATED="1383479821818" MODIFIED="1383488216709"/>
 </node>
 </node>
-<node TEXT="GreaseKit" ID="ID_1685958526" CREATED="1383466256216" MODIFIED="1383488216710" LINK="http://code.google.com/p/greasekit/">
-<node TEXT="Safari &lt;= 4" ID="ID_738212273" CREATED="1383481418505" MODIFIED="1383879910432">
-<icon BUILTIN="messagebox_warning"/>
+<node TEXT="GreaseKit" ID="ID_1685958526" CREATED="1383466256216" MODIFIED="1383929324307" LINK="http://code.google.com/p/greasekit/"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Development discontinued
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node TEXT="Safari &lt;= 4" ID="ID_738212273" CREATED="1383481418505" MODIFIED="1383929451091">
 <node TEXT="Downloads" ID="ID_644475363" CREATED="1383878167533" MODIFIED="1383878778583" LINK="http://code.google.com/p/greasekit/downloads/list">
 <node TEXT="+ 200 000" ID="ID_647927235" CREATED="1383878743029" MODIFIED="1383879751243" STYLE="bubble"/>
 </node>
 <node TEXT="Latest version" ID="ID_1188373772" CREATED="1383878180445" MODIFIED="1383878788545" LINK="http://code.google.com/p/greasekit/downloads/list">
-<node ID="ID_1999179401" CREATED="1383878191213" MODIFIED="1383879900854">
-<icon BUILTIN="messagebox_warning"/>
-<richcontent TYPE="NODE">
+<node ID="ID_1999179401" CREATED="1383878191213" MODIFIED="1383929366362"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -246,7 +270,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -262,7 +285,7 @@
 </node>
 <node TEXT="Others utilities" ID="ID_1058385448" CREATED="1383795504408" MODIFIED="1383806101029">
 <node TEXT="GreaseFire" ID="ID_676212126" CREATED="1383400931180" MODIFIED="1383794411694" LINK="https://github.com/skrul/greasefire">
-<node TEXT="Firefox" ID="ID_116137514" CREATED="1383402347660" MODIFIED="1383488216722" LINK="https://addons.mozilla.org/en-US/firefox/addon/greasefire/">
+<node TEXT="Firefox" ID="ID_116137514" CREATED="1383402347660" MODIFIED="1383929608578" LINK="https://addons.mozilla.org/en-US/firefox/addon/greasefire/">
 <node TEXT="Daily users" ID="ID_48509752" CREATED="1383403046665" MODIFIED="1383488216723" LINK="https://addons.mozilla.org/en-US/firefox/addon/greasefire/statistics/usage/">
 <node TEXT="+25 000 (2013-10-31)" ID="ID_304245428" CREATED="1383405630021" MODIFIED="1383489434833" STYLE="bubble"/>
 </node>
