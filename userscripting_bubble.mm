@@ -286,7 +286,7 @@
 <node TEXT="Others utilities" ID="ID_1058385448" CREATED="1383795504408" MODIFIED="1383806101029">
 <node TEXT="GreaseFire" ID="ID_676212126" CREATED="1383400931180" MODIFIED="1383794411694" LINK="https://github.com/skrul/greasefire">
 <node TEXT="Firefox" ID="ID_116137514" CREATED="1383402347660" MODIFIED="1383929608578" LINK="https://addons.mozilla.org/en-US/firefox/addon/greasefire/">
-<node TEXT="Daily users" ID="ID_48509752" CREATED="1383403046665" MODIFIED="1383488216723" LINK="https://addons.mozilla.org/en-US/firefox/addon/greasefire/statistics/usage/">
+<node TEXT="Users" ID="ID_48509752" CREATED="1383403046665" MODIFIED="1383929978294" LINK="https://addons.mozilla.org/en-US/firefox/addon/greasefire/statistics/usage/">
 <node TEXT="+25 000 (2013-10-31)" ID="ID_304245428" CREATED="1383405630021" MODIFIED="1383489434833" STYLE="bubble"/>
 </node>
 <node TEXT="Work with" ID="ID_264310639" CREATED="1383480858033" MODIFIED="1383488216725">
