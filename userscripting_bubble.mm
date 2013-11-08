@@ -1,9 +1,9 @@
 <map version="freeplane 1.2.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="Userscript Bazaar" ID="ID_1723255651" CREATED="1283093380553" MODIFIED="1383933085324">
-<hook NAME="AutomaticEdgeColor" COUNTER="4"/>
+<hook NAME="AutomaticEdgeColor" COUNTER="5"/>
 <hook NAME="MapStyle" background="#f9f9f9" zoom="0.75">
-    <properties SHOW_NOTE_ICONS="true" SHOW_ICON_FOR_ATTRIBUTES="true" show_note_icons="true"/>
+    <properties SHOW_NOTE_ICONS="true" show_note_icons="true" SHOW_ICON_FOR_ATTRIBUTES="true"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node">
@@ -221,7 +221,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -253,7 +252,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="Safari &lt;= 4" ID="ID_738212273" CREATED="1383481418505" MODIFIED="1383929451091">
 <node TEXT="Downloads" ID="ID_644475363" CREATED="1383878167533" MODIFIED="1383878778583" LINK="http://code.google.com/p/greasekit/downloads/list">
@@ -274,7 +272,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -307,7 +304,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <richcontent TYPE="NOTE">
 
@@ -324,7 +320,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
