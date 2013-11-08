@@ -239,7 +239,9 @@
 <node TEXT="os0x" ID="ID_1215389217" CREATED="1383479821818" MODIFIED="1383488216709"/>
 </node>
 </node>
-<node TEXT="GreaseKit" ID="ID_1685958526" CREATED="1383466256216" MODIFIED="1383929324307" LINK="http://code.google.com/p/greasekit/"><richcontent TYPE="NOTE">
+<node TEXT="GreaseKit" ID="ID_1685958526" CREATED="1383466256216" MODIFIED="1383930339604" LINK="http://code.google.com/p/greasekit/">
+<icon BUILTIN="messagebox_warning"/>
+<richcontent TYPE="NOTE">
 
 <html>
   <head>
@@ -258,7 +260,9 @@
 <node TEXT="+ 200 000" ID="ID_647927235" CREATED="1383878743029" MODIFIED="1383879751243" STYLE="bubble"/>
 </node>
 <node TEXT="Latest version" ID="ID_1188373772" CREATED="1383878180445" MODIFIED="1383878788545" LINK="http://code.google.com/p/greasekit/downloads/list">
-<node ID="ID_1999179401" CREATED="1383878191213" MODIFIED="1383929366362"><richcontent TYPE="NODE">
+<node ID="ID_1999179401" CREATED="1383878191213" MODIFIED="1383930323151">
+<icon BUILTIN="messagebox_warning"/>
+<richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -266,10 +270,11 @@
   </head>
   <body>
     <p>
-      1.7 (<font color="#ff0000"><b>2009-09-22</b></font>)
+      1.7 (<b><font color="#ff0033">2009-09-22</font></b>)
     </p>
   </body>
 </html>
+
 </richcontent>
 </node>
 </node>
@@ -289,6 +294,23 @@
 <node TEXT="Users" ID="ID_48509752" CREATED="1383403046665" MODIFIED="1383929978294" LINK="https://addons.mozilla.org/en-US/firefox/addon/greasefire/statistics/usage/">
 <node TEXT="+25 000 (2013-10-31)" ID="ID_304245428" CREATED="1383405630021" MODIFIED="1383489434833" STYLE="bubble"/>
 </node>
+<node TEXT="Latest version" ID="ID_1736799870" CREATED="1383930105488" MODIFIED="1383930377889" LINK="https://addons.mozilla.org/en-US/firefox/addon/greasefire/versions/">
+<node ID="ID_1215901402" CREATED="1383930112312" MODIFIED="1383930237797"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1.0.8 (<b><font color="#ff6600">2012-05-17</font></b>)
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
 <node TEXT="Work with" ID="ID_264310639" CREATED="1383480858033" MODIFIED="1383488216725">
 <node TEXT="GreaseMonkey" ID="ID_144320420" CREATED="1383480874321" MODIFIED="1383488216726"/>
 <node TEXT="Scriptish" ID="ID_1064292105" CREATED="1383402360060" MODIFIED="1383488216726"/>
@@ -298,6 +320,9 @@
 <node TEXT="skrul" ID="ID_582033206" CREATED="1383405481821" MODIFIED="1383488216728"/>
 <node TEXT="erikvold" ID="ID_1508675636" CREATED="1383407456285" MODIFIED="1383488216729"/>
 <node TEXT="supahgreg" ID="ID_1280007027" CREATED="1383481048361" MODIFIED="1383488216730"/>
+</node>
+<node TEXT="www" ID="ID_526093710" CREATED="1383930413471" MODIFIED="1383930416726">
+<node TEXT="Support" ID="ID_479681659" CREATED="1383930418792" MODIFIED="1383930425908" LINK="http://userscripts.org/forums/5"/>
 </node>
 </node>
 <node TEXT="Greasemonkey Shared Script Folder" ID="ID_718846402" CREATED="1383407838948" MODIFIED="1383794411694">
