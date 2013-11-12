@@ -101,7 +101,7 @@
 <node TEXT="+2 000 000 (2013-10-31)" ID="ID_598790934" CREATED="1383403505100" MODIFIED="1383489109015" STYLE="bubble"/>
 </node>
 <node TEXT="Latest version" ID="ID_1576331191" CREATED="1383849090182" MODIFIED="1383868810961" LINK="https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/versions/">
-<node TEXT="1.13beta5 (2013-10-23)" ID="ID_548094918" CREATED="1383849109067" MODIFIED="1383868838722"/>
+<node TEXT="1.13beta6 (2013-11-11)" ID="ID_548094918" CREATED="1383849109067" MODIFIED="1384232084175"/>
 </node>
 </node>
 <node TEXT="Main contributors" ID="ID_1719483288" CREATED="1383403037043" MODIFIED="1383488216649" LINK="https://github.com/greasemonkey/greasemonkey/graphs/contributors">
@@ -199,7 +199,7 @@
 <node TEXT="+1 800" ID="ID_355318280" CREATED="1383403505100" MODIFIED="1383489267417" STYLE="bubble"/>
 </node>
 <node TEXT="Latest version" ID="ID_308810723" CREATED="1383870650766" MODIFIED="1383873769944" LINK="https://addons.mozilla.org/en-US/firefox/addon/scriptify/versions">
-<node TEXT="0.2.4 (2013-04-18)" ID="ID_1347055233" CREATED="1383870664301" MODIFIED="1383870702666"/>
+<node TEXT="0.2.5 (2013-11-11)" ID="ID_1347055233" CREATED="1383870664301" MODIFIED="1384232535372"/>
 </node>
 </node>
 <node TEXT="Main Contributors" ID="ID_524033224" CREATED="1383403074815" MODIFIED="1383488216701" LINK="https://code.google.com/p/scriptify/source/list">
