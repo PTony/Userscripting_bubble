@@ -1,6 +1,6 @@
 <map version="freeplane 1.2.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="Userscript Bazaar" ID="ID_1723255651" CREATED="1283093380553" MODIFIED="1383933085324">
+<node TEXT="Userscript Bazaar" FOLDED="false" ID="ID_1723255651" CREATED="1283093380553" MODIFIED="1383933085324">
 <hook NAME="AutomaticEdgeColor" COUNTER="5"/>
 <hook NAME="MapStyle" background="#f9f9f9" zoom="0.75">
     <properties SHOW_NOTE_ICONS="true" show_note_icons="true" SHOW_ICON_FOR_ATTRIBUTES="true"/>
