@@ -90,7 +90,7 @@
 </node>
 <node TEXT="Repos" POSITION="left" ID="ID_371415901" CREATED="1383456362212" MODIFIED="1383794883516" HGAP="21" VSHIFT="7">
 <edge COLOR="#007c7c"/>
-<node TEXT="Userscripts.org" ID="ID_1363624132" CREATED="1383456374023" MODIFIED="1383794411694"/>
+<node TEXT="Userscripts.org" ID="ID_1363624132" CREATED="1383456374023" MODIFIED="1385394403420" LINK="http://userscripts.org/scripts"/>
 </node>
 <node TEXT="Interpreters" POSITION="right" ID="ID_176501410" CREATED="1383403218092" MODIFIED="1383805954668">
 <edge COLOR="#ff0000"/>
@@ -341,6 +341,23 @@
 <node TEXT="Firefox" ID="ID_1061583581" CREATED="1383482823065" MODIFIED="1383488216734" LINK="https://addons.mozilla.org/en-US/firefox/addon/greasemonkey-shared-script-/">
 <node TEXT="Users" ID="ID_1646403387" CREATED="1383403046665" MODIFIED="1383488216735">
 <node TEXT="+4 000 (2013-11-03)" ID="ID_1713894194" CREATED="1383405630021" MODIFIED="1383489442369" STYLE="bubble"/>
+</node>
+<node TEXT="Latest version" ID="ID_58164382" CREATED="1383930105488" MODIFIED="1385394128442" LINK="https://addons.mozilla.org/en-US/firefox/addon/greasemonkey-shared-script-/versions/">
+<node ID="ID_1745990887" CREATED="1383930112312" MODIFIED="1385394274018"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      0.2.0 (<font color="#ff6600"><b>2013-02-04</b></font>)
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
 </node>
 <node TEXT="Work with" ID="ID_1806254696" CREATED="1383482832448" MODIFIED="1383488216737">
 <node TEXT="GreaseMonkey" ID="ID_1460160952" CREATED="1383402347660" MODIFIED="1383488216738"/>
