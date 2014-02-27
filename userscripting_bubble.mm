@@ -1,9 +1,9 @@
 <map version="freeplane 1.2.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="Userscript Bazaar" FOLDED="false" ID="ID_1723255651" CREATED="1283093380553" MODIFIED="1383933085324">
+<node TEXT="Userscript Bazaar" FOLDED="false" ID="ID_1723255651" CREATED="1283093380553" MODIFIED="1393433837504">
 <hook NAME="AutomaticEdgeColor" COUNTER="5"/>
 <hook NAME="MapStyle" background="#f9f9f9" zoom="0.75">
-    <properties SHOW_NOTE_ICONS="true" show_note_icons="true" SHOW_ICON_FOR_ATTRIBUTES="true"/>
+    <properties SHOW_NOTE_ICONS="true" show_note_icons="true" SHOW_ICON_FOR_ATTRIBUTES="true" show_icon_for_attributes="true" show_notes_in_map="false"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node">
@@ -90,7 +90,54 @@
 </node>
 <node TEXT="Repos" POSITION="left" ID="ID_371415901" CREATED="1383456362212" MODIFIED="1383794883516" HGAP="21" VSHIFT="7">
 <edge COLOR="#007c7c"/>
-<node TEXT="Userscripts.org" ID="ID_1363624132" CREATED="1383456374023" MODIFIED="1385394403420" LINK="http://userscripts.org/scripts"/>
+<node TEXT="Userscripts.org" ID="ID_1363624132" CREATED="1383456374023" MODIFIED="1393434814066" LINK="http://userscripts.org/scripts"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      The first and more famous repo.
+    </p>
+    <p>
+      Lot of good things, but also site seem abandoned and lot of crap (spam, malware scripts) make the site worst than what it is supposed to be.
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node TEXT="Greasy Fork" ID="ID_1730858749" CREATED="1393430515163" MODIFIED="1393433958611" LINK="https://greasyfork.org/"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      New site. Only few scripts at this moment
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node TEXT="OpenUserJS" ID="ID_1186114406" CREATED="1393433635980" MODIFIED="1393434070513" LINK="http://openuserjs.org/"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Project state. Still Work in progress.
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
 </node>
 <node TEXT="Interpreters" POSITION="right" ID="ID_176501410" CREATED="1383403218092" MODIFIED="1383805954668">
 <edge COLOR="#ff0000"/>
@@ -98,10 +145,10 @@
 <node TEXT="GreaseMonkey" ID="ID_212027269" CREATED="1383400897540" MODIFIED="1383488216645" LINK="https://github.com/greasemonkey/greasemonkey/">
 <node TEXT="Firefox" ID="ID_1060437217" CREATED="1383402218397" MODIFIED="1383488216646" LINK="https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/">
 <node TEXT="Users" ID="ID_695679264" CREATED="1383403046665" MODIFIED="1383929758094" LINK="https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/statistics/usage/">
-<node TEXT="+2 000 000 (2013-10-31)" ID="ID_598790934" CREATED="1383403505100" MODIFIED="1383489109015" STYLE="bubble"/>
+<node TEXT="+ 1 994 000 (2013-02-25)" ID="ID_598790934" CREATED="1383403505100" MODIFIED="1393427730251" STYLE="bubble"/>
 </node>
 <node TEXT="Latest version" ID="ID_1576331191" CREATED="1383849090182" MODIFIED="1383868810961" LINK="https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/versions/">
-<node TEXT="1.13beta6 (2013-11-11)" ID="ID_548094918" CREATED="1383849109067" MODIFIED="1384232084175"/>
+<node TEXT="1.15 (2014-02-11)" ID="ID_548094918" CREATED="1383849109067" MODIFIED="1393421890396"/>
 </node>
 </node>
 <node TEXT="Main contributors" ID="ID_1719483288" CREATED="1383403037043" MODIFIED="1383488216649" LINK="https://github.com/greasemonkey/greasemonkey/graphs/contributors">
@@ -121,7 +168,7 @@
 <node TEXT="Scriptish" ID="ID_884571867" CREATED="1383400907716" MODIFIED="1383488216660" LINK="https://github.com/scriptish/scriptish/">
 <node TEXT="Firefox &amp; SeaMonkey" ID="ID_1728499772" CREATED="1383402249605" MODIFIED="1383870753426" LINK="https://addons.mozilla.org/en-US/firefox/addon/scriptish/">
 <node TEXT="Users" ID="ID_1744335966" CREATED="1383403046665" MODIFIED="1383929767421" LINK="https://addons.mozilla.org/en-US/firefox/addon/scriptish/statistics/usage/">
-<node TEXT="+90 000 (2013-10-31)" ID="ID_538704176" CREATED="1383403505100" MODIFIED="1383489230585" STYLE="bubble"/>
+<node TEXT="+ 91 000 (2013-02-25)" ID="ID_538704176" CREATED="1383403505100" MODIFIED="1393427574227" STYLE="bubble"/>
 </node>
 <node TEXT="Latest version" ID="ID_589590789" CREATED="1383849090182" MODIFIED="1383868782475" LINK="https://addons.mozilla.org/en-US/firefox/addon/scriptish/versions/">
 <node TEXT="0.1.11 (2013-06-14)" ID="ID_83131976" CREATED="1383849109067" MODIFIED="1383866845619"/>
@@ -141,10 +188,10 @@
 <node TEXT="Tampermonkey" ID="ID_1858220573" CREATED="1383400914085" MODIFIED="1383488216674" LINK="http://code.google.com/p/tampermonkey/source/browse/trunk/">
 <node TEXT="Chrome" ID="ID_83321229" CREATED="1383402286349" MODIFIED="1383488216676" LINK="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo">
 <node TEXT="Users" ID="ID_1332178651" CREATED="1383403085844" MODIFIED="1383488216677">
-<node TEXT="+850 000 (2013-10-31)" ID="ID_608618366" CREATED="1383408059021" MODIFIED="1383489247449" STYLE="bubble"/>
+<node TEXT="+ 1 120 000 (2014-02-26)" ID="ID_608618366" CREATED="1383408059021" MODIFIED="1393422245961" STYLE="bubble"/>
 </node>
 <node TEXT="Latest version" ID="ID_482212508" CREATED="1383868500180" MODIFIED="1383868506794">
-<node TEXT="3.5.3630.77 (2013-11-17)" ID="ID_1873366348" CREATED="1383868508964" MODIFIED="1385393418845"/>
+<node TEXT="3.6.3737.80 (2014-02-03)" ID="ID_1873366348" CREATED="1383868508964" MODIFIED="1393422112165"/>
 </node>
 </node>
 <node TEXT="Android" ID="ID_1499554173" CREATED="1383407878612" MODIFIED="1383488216682" LINK="https://play.google.com/store/apps/details?id=net.biniok.tampermonkey">
@@ -157,10 +204,10 @@
 </node>
 <node TEXT="Opera" ID="ID_1266574427" CREATED="1383402292444" MODIFIED="1383488216679" LINK="https://addons.opera.com/en/extensions/details/tampermonkey-beta/">
 <node TEXT="Downloads" ID="ID_1182545320" CREATED="1383457062840" MODIFIED="1383488216681">
-<node TEXT="+8 000" ID="ID_1918850586" CREATED="1383461947967" MODIFIED="1383489251786" STYLE="bubble"/>
+<node TEXT="+ 18 000" ID="ID_1918850586" CREATED="1383461947967" MODIFIED="1393427735562" STYLE="bubble"/>
 </node>
 <node TEXT="Latest version" ID="ID_244789833" CREATED="1383868658072" MODIFIED="1383868667057">
-<node TEXT="3.5.3630.14 (2013-10-02)" ID="ID_1470016482" CREATED="1383868669444" MODIFIED="1383868702034"/>
+<node TEXT="3.6.3737 (2013-12-18)" ID="ID_1470016482" CREATED="1383868669444" MODIFIED="1393422228872"/>
 </node>
 </node>
 <node TEXT="Main contributors" ID="ID_749786450" CREATED="1383403074815" MODIFIED="1383488216685" LINK="http://code.google.com/p/tampermonkey/source/list">
@@ -172,41 +219,41 @@
 <node TEXT="Forum" ID="ID_1972504514" CREATED="1383461311632" MODIFIED="1383488216689" LINK="http://forum.tampermonkey.net"/>
 </node>
 </node>
-<node TEXT="ViolentMonkey" ID="ID_1760943090" CREATED="1383400987420" MODIFIED="1383488216690" LINK="https://github.com/gera2ld?tab=repositories">
+<node TEXT="ViolentMonkey" FOLDED="true" ID="ID_1760943090" CREATED="1383400987420" MODIFIED="1383488216690" LINK="https://github.com/gera2ld?tab=repositories">
 <node TEXT="Opera" ID="ID_1766718981" CREATED="1383402360060" MODIFIED="1383488216692" LINK="https://addons.opera.com/en/extensions/details/violent-monkey/">
 <node TEXT="Downloads" ID="ID_1102582802" CREATED="1383462528136" MODIFIED="1383488216693">
-<node TEXT="+60 000" ID="ID_1807092184" CREATED="1383462548240" MODIFIED="1383489261529" STYLE="bubble"/>
+<node TEXT="+ 95 000" ID="ID_1807092184" CREATED="1383462548240" MODIFIED="1393427736834" STYLE="bubble"/>
 </node>
 <node TEXT="Latest version" ID="ID_39167955" CREATED="1383869155156" MODIFIED="1383869163697">
-<node TEXT="2.0.0.6 (2013-10-28)" ID="ID_1306371726" CREATED="1383869168125" MODIFIED="1383869200746"/>
+<node TEXT="2.0.0.8 (2014-02-05)" ID="ID_1306371726" CREATED="1383869168125" MODIFIED="1393426854713"/>
 </node>
 </node>
 <node TEXT="Maxthon" ID="ID_1529719811" CREATED="1383464290592" MODIFIED="1383488216694" LINK="http://extension.maxthon.com/detail/index.php?view_id=1680">
 <node TEXT="Downloads" ID="ID_1089469850" CREATED="1383462528136" MODIFIED="1383488216695">
-<node TEXT="+30 000" ID="ID_1727905039" CREATED="1383462548240" MODIFIED="1383489264321" STYLE="bubble"/>
+<node TEXT="+ 44 000" ID="ID_1727905039" CREATED="1383462548240" MODIFIED="1393427742538" STYLE="bubble"/>
 </node>
 <node TEXT="Latest version" ID="ID_519878122" CREATED="1383869227500" MODIFIED="1383869235666">
-<node TEXT="2.2.5 (2013-11-02)" ID="ID_775126622" CREATED="1383869238309" MODIFIED="1383869274546"/>
+<node TEXT="2.2.10 (2013-11-02)" ID="ID_775126622" CREATED="1383869238309" MODIFIED="1393426898514"/>
 </node>
 </node>
 <node TEXT="Main contributors" ID="ID_1365589877" CREATED="1383403074815" MODIFIED="1383488216696">
 <node TEXT="gera2ld" ID="ID_157467617" CREATED="1383408208636" MODIFIED="1383488216697"/>
 </node>
 </node>
-<node TEXT="Scriptify" ID="ID_291398830" CREATED="1383406646749" MODIFIED="1383488216698" LINK="https://code.google.com/p/scriptify/">
+<node TEXT="Scriptify" FOLDED="true" ID="ID_291398830" CREATED="1383406646749" MODIFIED="1383488216698" LINK="https://code.google.com/p/scriptify/">
 <node TEXT="Firefox &amp; SeaMonkey" ID="ID_248469675" CREATED="1383402249605" MODIFIED="1383870775034" LINK="https://addons.mozilla.org/en-US/firefox/addon/scriptify">
 <node TEXT="Users" ID="ID_835619150" CREATED="1383403046665" MODIFIED="1383488216699">
-<node TEXT="+1 800" ID="ID_355318280" CREATED="1383403505100" MODIFIED="1383489267417" STYLE="bubble"/>
+<node TEXT="+ 1 700" ID="ID_355318280" CREATED="1383403505100" MODIFIED="1393427745385" STYLE="bubble"/>
 </node>
 <node TEXT="Latest version" ID="ID_308810723" CREATED="1383870650766" MODIFIED="1383873769944" LINK="https://addons.mozilla.org/en-US/firefox/addon/scriptify/versions">
-<node TEXT="0.2.5 (2013-11-11)" ID="ID_1347055233" CREATED="1383870664301" MODIFIED="1384232535372"/>
+<node TEXT="0.2.6 (2013-02-14)" ID="ID_1347055233" CREATED="1383870664301" MODIFIED="1393427011305"/>
 </node>
 </node>
 <node TEXT="Main Contributors" ID="ID_524033224" CREATED="1383403074815" MODIFIED="1383488216701" LINK="https://code.google.com/p/scriptify/source/list">
 <node TEXT="kmaglione" ID="ID_111521520" CREATED="1383405130861" MODIFIED="1383488216702"/>
 </node>
 </node>
-<node TEXT="NinjaKit" ID="ID_973291703" CREATED="1383456625479" MODIFIED="1383488216702" LINK="https://github.com/os0x/NinjaKit">
+<node TEXT="NinjaKit" FOLDED="true" ID="ID_973291703" CREATED="1383456625479" MODIFIED="1383488216702" LINK="https://github.com/os0x/NinjaKit">
 <node TEXT="Safari &gt;= 5" ID="ID_1827411912" CREATED="1383456659935" MODIFIED="1383867716218" LINK="http://ss-o.net/safari/extension/NinjaKit.safariextz">
 <node TEXT="Latest version" ID="ID_62252362" CREATED="1383868417197" MODIFIED="1383868425206">
 <node ID="ID_209816655" CREATED="1383868428940" MODIFIED="1383929519426"><richcontent TYPE="NODE">
@@ -227,18 +274,20 @@
 </node>
 <node TEXT="Chrome" ID="ID_136909295" CREATED="1383456655807" MODIFIED="1383488216704" LINK="https://chrome.google.com/webstore/detail/ninjakit/gpbepnljaakggeobkclonlkhbdgccfek">
 <node TEXT="Users" ID="ID_1761187928" CREATED="1383479557072" MODIFIED="1383488216705">
-<node TEXT="+15 000 (2013-11-03)" ID="ID_1677615159" CREATED="1383479584257" MODIFIED="1383489270922" STYLE="bubble"/>
+<node TEXT="+ 15 000 (2013-11-03)" ID="ID_1677615159" CREATED="1383479584257" MODIFIED="1393427753435" STYLE="bubble"/>
 </node>
 <node TEXT="Latest version" ID="ID_757966888" CREATED="1383867904244" MODIFIED="1383868019956">
 <node TEXT="0.9.1 (2013-06-21)" ID="ID_545708340" CREATED="1383867947541" MODIFIED="1383867968450"/>
 </node>
 </node>
-<node TEXT="Opera ?" ID="ID_425294725" CREATED="1383479565618" MODIFIED="1383488216708"/>
+<node TEXT="Opera ?" ID="ID_425294725" CREATED="1383479565618" MODIFIED="1383488216708">
+<node TEXT="Coming soon ..." ID="ID_1062582059" CREATED="1393427136392" MODIFIED="1393427187131" LINK="https://github.com/os0x/NinjaKit#install"/>
+</node>
 <node TEXT="Main Contributors" ID="ID_98510025" CREATED="1383403037043" MODIFIED="1383488216709">
 <node TEXT="os0x" ID="ID_1215389217" CREATED="1383479821818" MODIFIED="1383488216709"/>
 </node>
 </node>
-<node TEXT="GreaseKit" ID="ID_1685958526" CREATED="1383466256216" MODIFIED="1383930339604" LINK="http://code.google.com/p/greasekit/">
+<node TEXT="GreaseKit" FOLDED="true" ID="ID_1685958526" CREATED="1383466256216" MODIFIED="1383930339604" LINK="http://code.google.com/p/greasekit/">
 <icon BUILTIN="messagebox_warning"/>
 <richcontent TYPE="NOTE">
 
@@ -285,11 +334,11 @@
 <node TEXT="ML Devs" ID="ID_1680529132" CREATED="1383481639593" MODIFIED="1383488216717" LINK="https://groups.google.com/forum/#!forum/greasekit-dev"/>
 </node>
 </node>
-<node TEXT="Others utilities" ID="ID_1058385448" CREATED="1383795504408" MODIFIED="1383806101029">
+<node TEXT="Others utilities" FOLDED="true" ID="ID_1058385448" CREATED="1383795504408" MODIFIED="1383806101029">
 <node TEXT="GreaseFire" ID="ID_676212126" CREATED="1383400931180" MODIFIED="1383794411694" LINK="https://github.com/skrul/greasefire">
 <node TEXT="Firefox" ID="ID_116137514" CREATED="1383402347660" MODIFIED="1383929608578" LINK="https://addons.mozilla.org/en-US/firefox/addon/greasefire/">
 <node TEXT="Users" ID="ID_48509752" CREATED="1383403046665" MODIFIED="1383929978294" LINK="https://addons.mozilla.org/en-US/firefox/addon/greasefire/statistics/usage/">
-<node TEXT="+25 000 (2013-10-31)" ID="ID_304245428" CREATED="1383405630021" MODIFIED="1383489434833" STYLE="bubble"/>
+<node TEXT="+ 27 000 (2014-02-25)" ID="ID_304245428" CREATED="1383405630021" MODIFIED="1393427699453" STYLE="bubble"/>
 </node>
 <node TEXT="Latest version" ID="ID_1736799870" CREATED="1383930105488" MODIFIED="1383930377889" LINK="https://addons.mozilla.org/en-US/firefox/addon/greasefire/versions/">
 <node ID="ID_1215901402" CREATED="1383930112312" MODIFIED="1383933716671"><richcontent TYPE="NODE">
@@ -340,7 +389,7 @@
 <node TEXT="Greasemonkey Shared Script Folder" ID="ID_718846402" CREATED="1383407838948" MODIFIED="1383794411694">
 <node TEXT="Firefox" ID="ID_1061583581" CREATED="1383482823065" MODIFIED="1383488216734" LINK="https://addons.mozilla.org/en-US/firefox/addon/greasemonkey-shared-script-/">
 <node TEXT="Users" ID="ID_1646403387" CREATED="1383403046665" MODIFIED="1383488216735">
-<node TEXT="+4 000 (2013-11-03)" ID="ID_1713894194" CREATED="1383405630021" MODIFIED="1383489442369" STYLE="bubble"/>
+<node TEXT="+ 4 000 (2013-11-03)" ID="ID_1713894194" CREATED="1383405630021" MODIFIED="1393427701433" STYLE="bubble"/>
 </node>
 <node TEXT="Latest version" ID="ID_58164382" CREATED="1383930105488" MODIFIED="1385394128442" LINK="https://addons.mozilla.org/en-US/firefox/addon/greasemonkey-shared-script-/versions/">
 <node ID="ID_1745990887" CREATED="1383930112312" MODIFIED="1385394274018"><richcontent TYPE="NODE">
@@ -355,7 +404,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
