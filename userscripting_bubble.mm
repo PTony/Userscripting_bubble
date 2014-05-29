@@ -2,8 +2,8 @@
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="Userscript Bazaar" FOLDED="false" ID="ID_1723255651" CREATED="1283093380553" MODIFIED="1393433837504">
 <hook NAME="AutomaticEdgeColor" COUNTER="5"/>
-<hook NAME="MapStyle" background="#f9f9f9" zoom="0.75">
-    <properties SHOW_NOTE_ICONS="true" show_note_icons="true" SHOW_ICON_FOR_ATTRIBUTES="true" show_icon_for_attributes="true" show_notes_in_map="false"/>
+<hook NAME="MapStyle" background="#f9f9f9" zoom="0.682">
+    <properties SHOW_NOTE_ICONS="true" show_icon_for_attributes="true" show_note_icons="true" SHOW_ICON_FOR_ATTRIBUTES="true" show_notes_in_map="false"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node">
@@ -90,7 +90,7 @@
 </node>
 <node TEXT="Repos" POSITION="left" ID="ID_371415901" CREATED="1383456362212" MODIFIED="1383794883516" HGAP="21" VSHIFT="7">
 <edge COLOR="#007c7c"/>
-<node TEXT="Userscripts.org" ID="ID_1363624132" CREATED="1383456374023" MODIFIED="1393434814066" LINK="http://userscripts.org/scripts"><richcontent TYPE="NOTE">
+<node TEXT="Userscripts.org" ID="ID_1363624132" CREATED="1383456374023" MODIFIED="1401391834402" LINK="http://userscripts.org/scripts"><richcontent TYPE="NOTE">
 
 <html>
   <head>
@@ -103,27 +103,21 @@
     <p>
       Lot of good things, but also site seem abandoned and lot of crap (spam, malware scripts) make the site worst than what it is supposed to be.
     </p>
-  </body>
-</html>
-
-</richcontent>
-</node>
-<node TEXT="Greasy Fork" ID="ID_1730858749" CREATED="1393430515163" MODIFIED="1393433958611" LINK="https://greasyfork.org/"><richcontent TYPE="NOTE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
     <p>
-      New site. Only few scripts at this moment
+      
+    </p>
+    <p>
+      <a href="http://www.isitdownrightnow.com/userscripts.org.html#c10152357610128972">Website is almost down since 6 May 2014</a>.
+    </p>
+    <p>
+      But it seems, sometimes you can access it at <a href="http://userscripts.org:8080/">http://userscripts.org:8080/</a>
     </p>
   </body>
 </html>
 
 </richcontent>
 </node>
-<node TEXT="OpenUserJS" ID="ID_1186114406" CREATED="1393433635980" MODIFIED="1393434070513" LINK="http://openuserjs.org/"><richcontent TYPE="NOTE">
+<node TEXT="Greasy Fork" ID="ID_1730858749" CREATED="1393430515163" MODIFIED="1401392456440" LINK="https://greasyfork.org/"><richcontent TYPE="NOTE">
 
 <html>
   <head>
@@ -131,7 +125,49 @@
   </head>
   <body>
     <p>
-      Project state. Still Work in progress.
+      New site. Only few scripts at this moment.
+    </p>
+    <p>
+      Not really beautiful, but do the job.
+    </p>
+    <p>
+      Number of scripts: 50 scripts per pages * 29 ~= 1450 scripts
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node TEXT="OpenUserJS" ID="ID_1186114406" CREATED="1393433635980" MODIFIED="1401392732040" LINK="http://openuserjs.org/"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Look Nice, but only few scripts
+    </p>
+    <p>
+      Seem <a href="https://openuserjs.org/groups">there is less than 100 scripts</a>.
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node TEXT="MonkeyGuts" ID="ID_750760304" CREATED="1401390123986" MODIFIED="1401392862465" LINK="https://monkeyguts.com/"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Look nice.
+    </p>
+    <p>
+      54 scripts.
     </p>
   </body>
 </html>
