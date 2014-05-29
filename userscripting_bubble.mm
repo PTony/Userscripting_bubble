@@ -114,7 +114,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Greasy Fork" ID="ID_1730858749" CREATED="1393430515163" MODIFIED="1401392456440" LINK="https://greasyfork.org/"><richcontent TYPE="NOTE">
@@ -135,7 +134,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="OpenUserJS" ID="ID_1186114406" CREATED="1393433635980" MODIFIED="1401392732040" LINK="http://openuserjs.org/"><richcontent TYPE="NOTE">
@@ -153,7 +151,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="MonkeyGuts" ID="ID_750760304" CREATED="1401390123986" MODIFIED="1401392862465" LINK="https://monkeyguts.com/"><richcontent TYPE="NOTE">
@@ -171,7 +168,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -181,7 +177,7 @@
 <node TEXT="GreaseMonkey" ID="ID_212027269" CREATED="1383400897540" MODIFIED="1383488216645" LINK="https://github.com/greasemonkey/greasemonkey/">
 <node TEXT="Firefox" ID="ID_1060437217" CREATED="1383402218397" MODIFIED="1383488216646" LINK="https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/">
 <node TEXT="Users" ID="ID_695679264" CREATED="1383403046665" MODIFIED="1383929758094" LINK="https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/statistics/usage/">
-<node TEXT="+ 1 994 000 (2013-02-25)" ID="ID_598790934" CREATED="1383403505100" MODIFIED="1393427730251" STYLE="bubble"/>
+<node TEXT="+ 1 803 000 (2013-05-28)" ID="ID_598790934" CREATED="1383403505100" MODIFIED="1401406027249" STYLE="bubble"/>
 </node>
 <node TEXT="Latest version" ID="ID_1576331191" CREATED="1383849090182" MODIFIED="1383868810961" LINK="https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/versions/">
 <node TEXT="1.15 (2014-02-11)" ID="ID_548094918" CREATED="1383849109067" MODIFIED="1393421890396"/>
