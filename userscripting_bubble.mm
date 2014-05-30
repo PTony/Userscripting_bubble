@@ -177,7 +177,7 @@
 <node TEXT="GreaseMonkey" ID="ID_212027269" CREATED="1383400897540" MODIFIED="1383488216645" LINK="https://github.com/greasemonkey/greasemonkey/">
 <node TEXT="Firefox" ID="ID_1060437217" CREATED="1383402218397" MODIFIED="1383488216646" LINK="https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/">
 <node TEXT="Users" ID="ID_695679264" CREATED="1383403046665" MODIFIED="1383929758094" LINK="https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/statistics/usage/">
-<node TEXT="+ 1 803 000 (2013-05-28)" ID="ID_598790934" CREATED="1383403505100" MODIFIED="1401406027249" STYLE="bubble"/>
+<node TEXT="+ 1 803 000 (2014-05-28)" ID="ID_598790934" CREATED="1383403505100" MODIFIED="1401407111365" STYLE="bubble"/>
 </node>
 <node TEXT="Latest version" ID="ID_1576331191" CREATED="1383849090182" MODIFIED="1383868810961" LINK="https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/versions/">
 <node TEXT="1.15 (2014-02-11)" ID="ID_548094918" CREATED="1383849109067" MODIFIED="1393421890396"/>
@@ -200,7 +200,7 @@
 <node TEXT="Scriptish" ID="ID_884571867" CREATED="1383400907716" MODIFIED="1383488216660" LINK="https://github.com/scriptish/scriptish/">
 <node TEXT="Firefox &amp; SeaMonkey" ID="ID_1728499772" CREATED="1383402249605" MODIFIED="1383870753426" LINK="https://addons.mozilla.org/en-US/firefox/addon/scriptish/">
 <node TEXT="Users" ID="ID_1744335966" CREATED="1383403046665" MODIFIED="1383929767421" LINK="https://addons.mozilla.org/en-US/firefox/addon/scriptish/statistics/usage/">
-<node TEXT="+ 91 000 (2013-02-25)" ID="ID_538704176" CREATED="1383403505100" MODIFIED="1393427574227" STYLE="bubble"/>
+<node TEXT="+ 90 300 (2014-05-28)" ID="ID_538704176" CREATED="1383403505100" MODIFIED="1401407101199" STYLE="bubble"/>
 </node>
 <node TEXT="Latest version" ID="ID_589590789" CREATED="1383849090182" MODIFIED="1383868782475" LINK="https://addons.mozilla.org/en-US/firefox/addon/scriptish/versions/">
 <node TEXT="0.1.11 (2013-06-14)" ID="ID_83131976" CREATED="1383849109067" MODIFIED="1383866845619"/>
