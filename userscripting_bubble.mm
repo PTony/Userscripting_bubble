@@ -203,7 +203,7 @@
 <node TEXT="+ 90 300 (2014-05-28)" ID="ID_538704176" CREATED="1383403505100" MODIFIED="1401407101199" STYLE="bubble"/>
 </node>
 <node TEXT="Latest version" ID="ID_589590789" CREATED="1383849090182" MODIFIED="1383868782475" LINK="https://addons.mozilla.org/en-US/firefox/addon/scriptish/versions/">
-<node TEXT="0.1.11 (2013-06-14)" ID="ID_83131976" CREATED="1383849109067" MODIFIED="1383866845619"/>
+<node TEXT="0.1.12 (2014-04-30)" ID="ID_83131976" CREATED="1383849109067" MODIFIED="1401978368382"/>
 </node>
 </node>
 <node TEXT="Main contributors" ID="ID_833289858" CREATED="1383403074815" MODIFIED="1383488216667" LINK="https://github.com/scriptish/scriptish/graphs/contributors?from=2011-07-08&amp;type=c">
