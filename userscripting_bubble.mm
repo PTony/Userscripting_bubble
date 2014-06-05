@@ -180,7 +180,7 @@
 <node TEXT="+ 1 803 000 (2014-05-28)" ID="ID_598790934" CREATED="1383403505100" MODIFIED="1401407111365" STYLE="bubble"/>
 </node>
 <node TEXT="Latest version" ID="ID_1576331191" CREATED="1383849090182" MODIFIED="1383868810961" LINK="https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/versions/">
-<node TEXT="1.15 (2014-02-11)" ID="ID_548094918" CREATED="1383849109067" MODIFIED="1393421890396"/>
+<node TEXT="1.16beta6 (2014-05-28)" ID="ID_548094918" CREATED="1383849109067" MODIFIED="1401978508856"/>
 </node>
 </node>
 <node TEXT="Main contributors" ID="ID_1719483288" CREATED="1383403037043" MODIFIED="1383488216649" LINK="https://github.com/greasemonkey/greasemonkey/graphs/contributors">
