@@ -2,7 +2,7 @@
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="Userscript Bazaar" FOLDED="false" ID="ID_1723255651" CREATED="1283093380553" MODIFIED="1393433837504">
 <hook NAME="AutomaticEdgeColor" COUNTER="5"/>
-<hook NAME="MapStyle" background="#f9f9f9" zoom="0.682">
+<hook NAME="MapStyle" background="#f9f9f9" zoom="0.75">
     <properties SHOW_NOTE_ICONS="true" show_icon_for_attributes="true" show_note_icons="true" SHOW_ICON_FOR_ATTRIBUTES="true" show_notes_in_map="false"/>
 
 <map_styles>
@@ -220,10 +220,10 @@
 <node TEXT="Tampermonkey" ID="ID_1858220573" CREATED="1383400914085" MODIFIED="1383488216674" LINK="http://code.google.com/p/tampermonkey/source/browse/trunk/">
 <node TEXT="Chrome" ID="ID_83321229" CREATED="1383402286349" MODIFIED="1383488216676" LINK="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo">
 <node TEXT="Users" ID="ID_1332178651" CREATED="1383403085844" MODIFIED="1383488216677">
-<node TEXT="+ 1 825 000 (2014-05-30)" ID="ID_608618366" CREATED="1383408059021" MODIFIED="1401408561539" STYLE="bubble"/>
+<node TEXT="+ 1 797 000 (2014-06-05)" ID="ID_608618366" CREATED="1383408059021" MODIFIED="1401975994212" STYLE="bubble"/>
 </node>
 <node TEXT="Latest version" ID="ID_482212508" CREATED="1383868500180" MODIFIED="1383868506794">
-<node TEXT="3.6.3737.80 (2014-02-03)" ID="ID_1873366348" CREATED="1383868508964" MODIFIED="1393422112165"/>
+<node TEXT="3.7.48 (2014-05-18)" ID="ID_1873366348" CREATED="1383868508964" MODIFIED="1401975955564"/>
 </node>
 </node>
 <node TEXT="Android" ID="ID_1499554173" CREATED="1383407878612" MODIFIED="1383488216682" LINK="https://play.google.com/store/apps/details?id=net.biniok.tampermonkey">
@@ -236,7 +236,7 @@
 </node>
 <node TEXT="Opera" ID="ID_1266574427" CREATED="1383402292444" MODIFIED="1383488216679" LINK="https://addons.opera.com/en/extensions/details/tampermonkey-beta/">
 <node TEXT="Downloads" ID="ID_1182545320" CREATED="1383457062840" MODIFIED="1383488216681">
-<node TEXT="+ 26 000" ID="ID_1918850586" CREATED="1383461947967" MODIFIED="1401408742867" STYLE="bubble"/>
+<node TEXT="+ 27 000" ID="ID_1918850586" CREATED="1383461947967" MODIFIED="1401975876727" STYLE="bubble"/>
 </node>
 <node TEXT="Latest version" ID="ID_244789833" CREATED="1383868658072" MODIFIED="1383868667057">
 <node TEXT="3.6.3737 (2013-12-18)" ID="ID_1470016482" CREATED="1383868669444" MODIFIED="1393422228872"/>
